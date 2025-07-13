@@ -1,16 +1,58 @@
-## Hi there 👋
+---
 
-<!--
-**Jonnygeo/Jonnygeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jonnygeo/NeoLegacy/main/assets/gitproof-neoai-2025.png" alt="Legacy Is Live" width="600"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Welcome to JokerJonny’s Official Dev Hub 🧠⚔️</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>25-Year OG Coder | Cyber Defense Strategist | AI Architect | $NEOAI Founder</b>
+</p>
+
+---
+
+### 🧱 What I'm Building:
+
+| 🔥 Project        | ⚙️ Description |
+|------------------|----------------|
+| [**NeoLegacy**](https://github.com/Jonnygeo/NeoLegacy) | AI-powered legacy vault for your voice, values, & timeline. Think digital soul preservation. |
+| [**$NEOAI Token**](https://pump.fun/) | The official utility token powering NeoShade AI — agent permissions, vault access, and platform rights. |
+| [**NeoShade Market**](https://github.com/Jonnygeo/neo-shade-market) | AI-driven financial intel, DEX signals, DeFi sentiment. Built to predict, not react. |
+| [**Neo Crypto Guard**](https://github.com/Jonnygeo/neo-crypto-guard) | Security agent that monitors crypto wallet behavior for threats and anomalies. |
+| [**Neo Voice Quest**](https://github.com/Jonnygeo/neo-voice-quest) | AI speech, emotion, and voiceprint preservation tool — tell your story, forever. |
+
+---
+
+### 🧠 The Stack
+- Firebase / Streamflow / Solana
+- Replit AI Agents / GPT-4o
+- Arweave permanent storage
+- Blockchain-integrated vault logic
+
+---
+
+### ⚡️ Legacy Builder Statement
+> "I didn’t just launch a token. I built the foundation.  
+> My goal is digital truth, soul-level preservation, and tech with a conscience.  
+> NeoLegacy is the first product. $NEOAI fuels the platform."
+
+🧠 One dev.  
+🕸️ One spider web of truth.  
+🧱 And a whole lot of receipts.
+
+---
+
+### 🔗 Important Links
+- 🌐 Website: [Neo-Shade.com](https://neo-shade.com)
+- 🧠 Platform: [NeoLegacy Overview](https://neo-shade.com/neo-legacy)
+- 🧪 Token Lock: [Streamflow Finance](https://streamflow.finance)
+- 🧱 GitHub Org: [Neo-Shade-Ai](https://github.com/Neo-Shade-Ai)
+- 🧵 Twitter: [@neoshade2025](https://twitter.com/neoshade2025)
+
+---
+
+<p align="center">
+  <b>Legacy is Live — Powered by $NEOAI</b><br>
+  <i>Don’t fight the system blindly — rewrite it.</i>
+</p>
