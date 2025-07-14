@@ -1,7 +1,7 @@
 # 👤 Jonnygeo (a.k.a. JokerJonny)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jonnygeo/NeoLegacy/main/assets/gitproof-neoai-2025.png" alt="Legacy Is Live" width="600"/>
+  <img src="[https://raw.githubusercontent.com/Jonnygeo/NeoLegacy/main/assets/gitproof-neoai-2025.png](https://neo-shade.com/wp-content/uploads/2025/07/twitter-profile-neo.jpg)" alt="Legacy Is Live" width="600"/>
 </p>
 
 <h1 align="center">Welcome to JokerJonny’s Official Dev Hub 🧠⚔️</h1>
