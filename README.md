@@ -1,4 +1,4 @@
----
+# 👤 Jonnygeo (a.k.a. JokerJonny)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jonnygeo/NeoLegacy/main/assets/gitproof-neoai-2025.png" alt="Legacy Is Live" width="600"/>
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧱 What I'm Building:
+## 🧱 What I'm Building:
 
 | 🔥 Project        | ⚙️ Description |
 |------------------|----------------|
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧠 The Stack
+## 🧠 The Stack
 - Firebase / Streamflow / Solana
 - Replit AI Agents / GPT-4o
 - Arweave permanent storage
@@ -32,7 +32,7 @@
 
 ---
 
-### ⚡️ Legacy Builder Statement
+## ⚡️ Legacy Builder Statement
 > "I didn’t just launch a token. I built the foundation.  
 > My goal is digital truth, soul-level preservation, and tech with a conscience.  
 > NeoLegacy is the first product. $NEOAI fuels the platform."
@@ -43,7 +43,7 @@
 
 ---
 
-### 🔗 Important Links
+## 🔗 Important Links
 - 🌐 Website: [Neo-Shade.com](https://neo-shade.com)
 - 🧠 Platform: [NeoLegacy Overview](https://neo-shade.com/neo-legacy)
 - 🧪 Token Lock: [Streamflow Finance](https://streamflow.finance)
