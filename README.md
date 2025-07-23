@@ -1,13 +1,10 @@
-# 👤 Jonnygeo (a.k.a. JokerJonny)
+<!-- GitHub README for JokerJonny aka JonnyGeo -->
+
+<h1 align="center">👤 JokerJonny a.k.a. JonnyGeo</h1>
+<h3 align="center">🧠 25-Year Code Cowboy | Cyber Defense Strategist | AI Architect | Founder of $NEOAI</h3>
 
 <p align="center">
   <img src="https://neo-shade.com/wp-content/uploads/2025/07/twitter-profile-neo.jpg" alt="Legacy Is Live" width="600"/>
-</p>
-
-<h1 align="center">Welcome to JokerJonny’s Official Dev Hub 🧠⚔️</h1>
-
-<p align="center">
-  <b>25-Year OG Coder | Cyber Defense Strategist | AI Architect | $NEOAI Founder</b>
 </p>
 
 <p align="center">
@@ -22,70 +19,97 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 🧱 What I'm Building:
+<h2>🧱 What I'm Building:</h2>
 
-| 🔥 Project        | ⚙️ Description |
-|------------------|----------------|
-| [**NeoLegacy**](https://github.com/Jonnygeo/NeoLegacy) | AI-powered legacy vault for your voice, values, & timeline. Think digital soul preservation. |
-| [**$NEOAI Token**](https://pump.fun/) | The official utility token powering NeoShade AI — agent permissions, vault access, and platform rights. |
-| [**NeoShade Market**](https://github.com/Jonnygeo/neo-shade-market) | AI-driven financial intel, DEX signals, DeFi sentiment. Built to predict, not react. |
-| [**Neo Crypto Guard**](https://github.com/Jonnygeo/neo-crypto-guard) | Security agent that monitors crypto wallet behavior for threats and anomalies. |
-| [**Neo Voice Quest**](https://github.com/Jonnygeo/neo-voice-quest) | AI speech, emotion, and voiceprint preservation tool — tell your story, forever. |
+<table>
+  <tr>
+    <th>🔥 Project</th>
+    <th>⚙️ Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jonnygeo/NeoLegacy"><b>NeoLegacy</b></a></td>
+    <td>AI-powered vault for preserving your voice, memories, and moral code — digital soul preservation.</td>
+  </tr>
+  <tr>
+    <td><a href="https://pump.fun/"><b>$NEOAI Token</b></a></td>
+    <td>Utility token fueling NeoShade — powers agents, unlocks platform rights, and governs evolution.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jonnygeo/neo-shade-market"><b>NeoShade Market</b></a></td>
+    <td>AI-driven financial insight engine. Predictive DEX signals and real-time DeFi pulse.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jonnygeo/neo-crypto-guard"><b>Neo Crypto Guard</b></a></td>
+    <td>Behavioral AI security agent that flags and fights wallet exploits before they wreck you.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jonnygeo/neo-voice-quest"><b>Neo Voice Quest</b></a></td>
+    <td>Voiceprint, emotion, and legacy story preservation — your spirit, encoded.</td>
+  </tr>
+</table>
 
----
+<hr/>
 
-## 🧠 The Stack
+<h2>🧠 Tech Stack</h2>
+<ul>
+  <li>🔥 Firebase (auth, DB, hosting)</li>
+  <li>⛓ Streamflow (token locks, vesting)</li>
+  <li>💻 Replit AI Agents (GPT-4o + task runners)</li>
+  <li>📦 Arweave (permanent storage for vaults)</li>
+  <li>⚙️ Solana + SPL for $NEOAI token backend</li>
+</ul>
 
-- Firebase / Streamflow / Solana  
-- Replit AI Agents / GPT-4o  
-- Arweave permanent storage  
-- Blockchain-integrated vault logic
+<hr/>
 
----
+<h2>⚡️ Legacy Builder Statement</h2>
 
-## ⚡️ Legacy Builder Statement
+<blockquote>
+  <p>
+    "I didn’t just launch a token. I built the foundation.<br/>
+    My goal is digital truth, soul-level preservation, and tech with a conscience.<br/>
+    NeoLegacy is the first product. $NEOAI fuels the platform.<br/>
+    <strong>This is where AI meets accountability.</strong>"
+  </p>
+</blockquote>
 
-> "I didn’t just launch a token. I built the foundation.  
-> My goal is digital truth, soul-level preservation, and tech with a conscience.  
-> NeoLegacy is the first product. $NEOAI fuels the platform."
+<hr/>
 
-🧠 One dev.  
-🕸️ One spider web of truth.  
-🧱 And a whole lot of receipts.
+<h2>🔗 Important Links</h2>
+<ul>
+  <li>🌐 Website: <a href="https://neo-shade.com">Neo-Shade.com</a></li>
+  <li>🧠 Platform Overview: <a href="https://neo-shade.com/neo-legacy">NeoLegacy</a></li>
+  <li>🔒 Token Lock Info: <a href="https://streamflow.finance">Streamflow</a></li>
+  <li>💻 GitHub Org: <a href="https://github.com/Jonnygeo">Neo-Shade-Ai</a></li>
+  <li>🧵 Twitter / X: <a href="https://twitter.com/neoshade2025">@neoshade2025</a></li>
+</ul>
 
----
+<hr/>
 
-## 🔗 Important Links
+<h2>🛡 LICENSE</h2>
 
-- 🌐 Website: [Neo-Shade.com](https://neo-shade.com)  
-- 🧠 Platform: [NeoLegacy Overview](https://neo-shade.com/neo-legacy)  
-- 🧪 Token Lock: [Streamflow Finance](https://streamflow.finance)  
-- 🧱 GitHub Org: [Neo-Shade-Ai](https://github.com/Jonnygeo)  
-- 🧵 Twitter: [@neoshade2025](https://twitter.com/neoshade2025)
+<p>This profile and associated projects are protected under a <strong>Custom NeoLegacy Non-Commercial License (NNL v1.0)</strong>.</p>
 
----
+<p>You may:</p>
+<ul>
+  <li>Use, fork, or adapt this content for <strong>non-commercial</strong> use</li>
+  <li>Reference or link with attribution</li>
+</ul>
 
-## 🛡 LICENSE
+<p>You may <strong>NOT</strong>:</p>
+<ul>
+  <li>Rebrand, resell, or use commercially</li>
+  <li>Remove references to NeoShade AI, NeoLegacy, or JokerJonny</li>
+</ul>
 
-This profile and associated projects are protected under a **Custom NeoLegacy License**.
+<p>For commercial use or collabs:<br/>
+→ <a href="https://neo-shade.com">neo-shade.com</a><br/>
+→ <a href="https://twitter.com/neoshade2025">@neoshade2025 on X</a></p>
 
-You may:
-- Use, fork, or adapt this content for **non-commercial** use  
-- Reference or link with attribution
-
-You may **NOT**:
-- Rebrand, resell, or use commercially  
-- Remove references to NeoShade AI, NeoLegacy, or JokerJonny
-
-For commercial use or collabs:  
-→ [neo-shade.com](https://neo-shade.com)  
-→ [@neoshade2025 on X](https://twitter.com/neoshade2025)
-
----
+<hr/>
 
 <p align="center">
-  <b>Legacy is Live — Powered by $NEOAI</b><br>
-  <i>Don’t fight the system blindly — rewrite it.</i>
+  <b>Legacy is Live — Powered by $NEOAI</b><br/>
+  <i>We don’t sell hope. We engineer it.</i>
 </p>
